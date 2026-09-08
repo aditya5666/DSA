@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aditya5666/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/aditya5666/DSA/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/aditya5666/DSA/tree/master/0283-move-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya5666/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/aditya5666/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya5666/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -35,4 +36,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/aditya5666/DSA/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/aditya5666/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
