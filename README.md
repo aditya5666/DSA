@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditya5666/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/aditya5666/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/aditya5666/DSA/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/aditya5666/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/aditya5666/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/aditya5666/DSA/tree/master/0283-move-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya5666/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/aditya5666/DSA/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/aditya5666/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aditya5666/DSA/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/aditya5666/DSA/tree/master/1672-richest-customer-wealth) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aditya5666/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/aditya5666/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
