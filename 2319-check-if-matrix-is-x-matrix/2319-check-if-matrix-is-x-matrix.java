@@ -11,10 +11,10 @@ class Solution {
                 if(i + j ==  n - 1 && grid[i][j] == 0  ){
                     return false ;
                     
-                }
-                else if(i != j && i + j != n - 1 && grid[i][j] != 0) {
+                } if(i != j && i + j != n - 1 && grid[i][j] != 0) {
                     return false;
                 }
+                
             }
         }
         return true ;
