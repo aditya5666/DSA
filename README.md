@@ -94,10 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aditya5666/DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/aditya5666/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aditya5666/DSA/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditya5666/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aditya5666/DSA/tree/master/0069-sqrtx) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aditya5666/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aditya5666/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
