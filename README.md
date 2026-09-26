@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya5666/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/aditya5666/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya5666/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1534-count-good-triplets](https://github.com/aditya5666/DSA/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/aditya5666/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/aditya5666/DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/aditya5666/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aditya5666/DSA/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/aditya5666/DSA/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
