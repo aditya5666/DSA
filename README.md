@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/aditya5666/DSA/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/aditya5666/DSA/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/aditya5666/DSA/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/aditya5666/DSA/tree/master/1920-build-array-from-permutation) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/aditya5666/DSA/tree/master/0412-fizz-buzz) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya5666/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya5666/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aditya5666/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/aditya5666/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aditya5666/DSA/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/aditya5666/DSA/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditya5666/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya5666/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
