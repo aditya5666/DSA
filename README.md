@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/aditya5666/DSA/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/aditya5666/DSA/tree/master/0412-fizz-buzz) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya5666/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya5666/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya5666/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/aditya5666/DSA/tree/master/1534-count-good-triplets) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya5666/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya5666/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
