@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya5666/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0412-fizz-buzz](https://github.com/aditya5666/DSA/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/aditya5666/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/aditya5666/DSA/tree/master/0686-repeated-string-match) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya5666/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya5666/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya5666/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -156,18 +157,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya5666/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/aditya5666/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/aditya5666/DSA/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya5666/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/aditya5666/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/aditya5666/DSA/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya5666/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/aditya5666/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/aditya5666/DSA/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya5666/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/aditya5666/DSA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
