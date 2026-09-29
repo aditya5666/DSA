@@ -79,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya5666/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/aditya5666/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aditya5666/DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/aditya5666/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya5666/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aditya5666/DSA/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya5666/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/aditya5666/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/aditya5666/DSA/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/aditya5666/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/aditya5666/DSA/tree/master/0686-repeated-string-match) |
