@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aditya5666/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/aditya5666/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aditya5666/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/aditya5666/DSA/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/aditya5666/DSA/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditya5666/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya5666/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -175,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya5666/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/aditya5666/DSA/tree/master/0686-repeated-string-match) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/aditya5666/DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/aditya5666/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
