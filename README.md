@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aditya5666/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/aditya5666/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/aditya5666/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aditya5666/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/aditya5666/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/aditya5666/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya5666/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aditya5666/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/aditya5666/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aditya5666/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aditya5666/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aditya5666/DSA/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/aditya5666/DSA/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditya5666/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aditya5666/DSA/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/aditya5666/DSA/tree/master/1534-count-good-triplets) |
 ## Stack
 |  |
@@ -192,4 +195,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aditya5666/DSA/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditya5666/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditya5666/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditya5666/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditya5666/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
