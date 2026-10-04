@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aditya5666/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/aditya5666/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya5666/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/aditya5666/DSA/tree/master/0414-third-maximum-number) |
 | [0566-reshape-the-matrix](https://github.com/aditya5666/DSA/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/aditya5666/DSA/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/aditya5666/DSA/tree/master/0867-transpose-matrix) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/aditya5666/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya5666/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/aditya5666/DSA/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya5666/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya5666/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aditya5666/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
