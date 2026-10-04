@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aditya5666/DSA/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/aditya5666/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya5666/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/aditya5666/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/aditya5666/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/aditya5666/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/aditya5666/DSA/tree/master/0412-fizz-buzz) |
