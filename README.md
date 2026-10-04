@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aditya5666/DSA/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/aditya5666/DSA/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/aditya5666/DSA/tree/master/0566-reshape-the-matrix) |
+| [0657-robot-return-to-origin](https://github.com/aditya5666/DSA/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/aditya5666/DSA/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/aditya5666/DSA/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya5666/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aditya5666/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/aditya5666/DSA/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/aditya5666/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0657-robot-return-to-origin](https://github.com/aditya5666/DSA/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/aditya5666/DSA/tree/master/0686-repeated-string-match) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya5666/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya5666/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
