@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/aditya5666/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2643-row-with-maximum-ones](https://github.com/aditya5666/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aditya5666/DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aditya5666/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3355-zero-array-transformation-i](https://github.com/aditya5666/DSA/tree/master/3355-zero-array-transformation-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya5666/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/aditya5666/DSA/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/aditya5666/DSA/tree/master/1534-count-good-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aditya5666/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Stack
 |  |
 | ------- |
